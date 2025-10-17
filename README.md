@@ -1,5 +1,3 @@
-# 👨‍💻 MiMFa
-
 Welcome to my GitHub! I'm a full-cycle software developer and algorithm designer with a passion for building modular, scalable, and intelligent systems. I specialize in sequence-based web frameworks, custom CMS platforms, and automation tools that empower developers and users alike.
 
 ## 🧠 About Me
