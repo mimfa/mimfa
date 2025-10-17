@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a full-cycle software developer and algorithm designer
 - 🧑‍💻 Full-stack web developer
 - 🛠️ Framework architect and automation enthusiast
 
-I believe in building tools that are not only powerful but also intuitive and accessible. My work spans PHP, C#, JavaScript, and more—always with a focus on clarity, modularity, and real-world usability.
+I believe in building tools that are not only powerful but also intuitive and accessible. My work spans C/C++, C#, JavaScript, PHP, Java, and more, always with a focus on clarity, modularity, and real-world usability.
 
 ## 🌐 Projects & Frameworks
 
