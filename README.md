@@ -35,7 +35,7 @@ do {
        catch (ex) { logs.push( learn( ex ) ); }
 
 } while( amAlive &&= haveDreams );
-Welcome to my GitHub! 
+
 
 
 ## 📚 Explore my ecosystem and live projects:
