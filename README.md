@@ -1,3 +1,4 @@
+```JS
 var expertise = ["Full-stack Web Developer", "Full-cycle Software Developer", "Data Science", "AI"];
 
 const features = ["Unlimited Creativity", "Logical and Analytical Mind", "Algorithm and Solution Designer"];
@@ -35,7 +36,7 @@ do {
        catch (ex) { logs.push( learn( ex ) ); }
 
 } while( amAlive &&= haveDreams );
-
+```
 
 
 ## 📚 Explore my ecosystem and live projects:
