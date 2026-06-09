@@ -1,5 +1,5 @@
 ```JS
-var expertise = ["AI Development", "Full-stack Web Developer", "Full-cycle Software Developer", "Data Science"];
+var expertise = ["AI Development", "Full-stack Web Development", "Full-cycle Software Development", "Data Science"];
 
 const features = ["Unlimited Creativity", "Logical and Analytical Mind", "Algorithm and Solution Designer"];
 
